@@ -12,6 +12,8 @@
 
 ## Introducción a RavenDB:
 
+![RavenDB](https://ravendb.net/images/logo/ravendb_logo.png)
+
 1. Explicación sobre el Alcance y funcionalidades que tiene:
     1. Performance
     2. ACID Transactions
