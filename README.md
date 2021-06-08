@@ -2,9 +2,9 @@
 
 ## Integrantes
 
-- Baiges, Matías Sebastián
-- Bilevich, Andrés Leonardo
-- Margossian, Gabriel Viken 
+- Baiges, Matías Sebastián  59076
+- Bilevich, Andrés Leonardo 59108
+- Margossian, Gabriel Viken 59130
 
 ## Presentación
 
