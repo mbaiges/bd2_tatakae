@@ -25,7 +25,8 @@
 
 ##Benchmarking
 
-### Comparación con Neo4j
+
+### Comparación <img src="https://user-images.githubusercontent.com/44510239/121270167-9035e480-c897-11eb-9a03-354cd7763f3d.png" width="20" height="20"> con Neo4j 
 
 - Complejidad temporal
   - Búsquedas dentro de una red con más de 1000 nodos
@@ -36,13 +37,13 @@
   - Espacio que ocupa una red con más de 10000 nodos 
   - Espacio que ocupa una red con 10000 nodos todos conectados entre sí
 
-### Comparación con PostgreSQL
+### Comparación <img src="https://user-images.githubusercontent.com/44510239/121270167-9035e480-c897-11eb-9a03-354cd7763f3d.png" width="20" height="20"> con PostgreSQL
 
 - Complejidad temporal
   - Casos de uso prácticos con transacciones modelo
   - Comparación con Postgis para operaciones geoespaciales
 
-### Comparación con MongoDB
+### Comparación <img src="https://user-images.githubusercontent.com/44510239/121270167-9035e480-c897-11eb-9a03-354cd7763f3d.png" width="20" height="20"> con MongoDB
 
 - Complejidad temporal
   - Agregado de documentos json
@@ -51,7 +52,7 @@
 - Complejidad espacial
   -Espacio almacenado al agregar 1000 entradas en formato json.
 
-### Comparación con Elastic
+### Comparación <img src="https://user-images.githubusercontent.com/44510239/121270167-9035e480-c897-11eb-9a03-354cd7763f3d.png" width="20" height="20"> con Elastic
 
 - Complejidad temporal
   - Búsquedas por texto contenido en documentos
