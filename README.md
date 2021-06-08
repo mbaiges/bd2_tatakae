@@ -13,10 +13,10 @@
 ## Introducción a RavenDB:
 
 1. Explicación sobre el Alcance y funcionalidades que tiene:
-  1. Performance
-  2. ACID Transactions
-  3. High Availability
-  4. Full-text search
+    1. Performance
+    2. ACID Transactions
+    3. High Availability
+    4. Full-text search
 2. Operaciones CRUD
 3. Supported Clients (C#, Java, Node.js, Python, C++, Go)
 
