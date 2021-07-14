@@ -8,11 +8,13 @@
 
 ## Presentación
 
-[Link a la presentación](https://docs.google.com/presentation/d/13mVJ33jD3wlwoXh5DxbftZTCi2Hl1YvEvEp0AHVJ5oo)
+[Link a la presentación parcial](https://docs.google.com/presentation/d/13mVJ33jD3wlwoXh5DxbftZTCi2Hl1YvEvEp0AHVJ5oo)
+
+[Link a la presenciación final](https://docs.google.com/presentation/d/1AjDQwQdMtQcjmro00_0LwIOPM7ZLCM4mY7wwDXjoHiA)
 
 ## Introducción a RavenDB:
 
-![RavenDB](https://ravendb.net/images/logo/ravendb_logo.png)
+![RavenDB](https://upload.wikimedia.org/wikipedia/commons/9/93/Ravendb-logo.png)
 
 1. Explicación sobre el Alcance y funcionalidades que tiene:
     1. Performance
